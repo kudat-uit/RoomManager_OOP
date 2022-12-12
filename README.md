@@ -54,6 +54,8 @@ string
 <br />3 GD1 1 3 200 2
 <br />1 PM2 3 1 100 40
 <br />60
+
+
 >**Sample Output 0**
 <br />500
 <br />P102
